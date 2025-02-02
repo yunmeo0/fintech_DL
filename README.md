@@ -1,6 +1,7 @@
 # Short-Term Precipitation Forecasting Using Transformers
 
 This project implements a short-term rainfall prediction model using transformer-based attention. It predicts precipitation in Seoul and surrounding regions using minimal data without geographic location inputs.
+[Read Full Documentation](https://drive.google.com/file/d/1KsyNtd4E46AkEAXBzWrxcuScJ53UGEB2/view?usp=drive_link)
 
 ## Key Features
 - Transformer-based model capturing temporal and spatial dependencies
