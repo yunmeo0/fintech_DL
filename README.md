@@ -9,7 +9,7 @@ This project implements a short-term rainfall prediction model using transformer
 - Lightweight with a small parameter space
 
 ## Data Overview
-- Five regions: Seoul, Goyang, Incheon, Suwon, and Anyang
+- Five regions: Seoul, Dongducheon, Incheon, Suwon, and YangPyeong
 - Preprocessed to handle missing data and zero/near-zero adjustments
 
 ## Future Directions
